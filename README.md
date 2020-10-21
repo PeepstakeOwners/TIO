@@ -1,2 +1,1 @@
-# TIO-Talk-it-over
-No swipe dating app powered by the goodness of Machine Learning.
+![tio-image](https://github.com/PeepstakeOwners/TIO-Talk-it-Over/blob/main/images/Tio_icon.png)
